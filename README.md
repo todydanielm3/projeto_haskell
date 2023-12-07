@@ -71,26 +71,31 @@ Lembre-se de que cada mudança no código fonte requer uma nova compilação com
 Para ilustrar o efeito do filtro Gaussiano em uma imagem da Lena, vou criar uma sequência de quatro imagens:
 
 1.  **Imagem Original da Lena**
-2.  **Imagem com Filtro Gaussiano (Sigma = 1.0)**
-3.  **Imagem com Filtro Gaussiano (Sigma = 3.0)**
-4.  **Imagem com Filtro Gaussiano (Sigma = 5.0)**
+2.  **Imagem com Filtro Gaussiano (Sigma = 5.0)**
+3.  **Imagem com Filtro Gaussiano (Sigma = 10.0)**
+4.  **Imagem com Filtro Gaussiano (Sigma = 15.0)**
 
 Em seguida, criarei uma imagem da Lena com um chapéu.
 
 Vamos começar com a sequência de imagens:
 
 **Imagem Original:**
-
-
-
-**Imagem com Filtro Gaussiano (Sigma = 1.0):**
-
-
-
-**Imagem com Filtro Gaussiano (Sigma = 3.0):**
+<img width="516" alt="image" src="https://github.com/todydanielm3/projeto_haskell/assets/36305237/7c20a7f5-cce6-463d-8820-9883f0444cd4">
 
 
 
 **Imagem com Filtro Gaussiano (Sigma = 5.0):**
+<img width="516" alt="image" src="https://github.com/todydanielm3/projeto_haskell/assets/36305237/1e6118ff-bb6c-434f-9dc8-8ff8bae7d9fe">
+
+
+
+**Imagem com Filtro Gaussiano (Sigma = 10.0):**
+<img width="516" alt="image" src="https://github.com/todydanielm3/projeto_haskell/assets/36305237/c79c7991-fa5f-426c-ac11-36ed77a73f5a">
+
+
+
+**Imagem com Filtro Gaussiano (Sigma = 15.0):**
+<img width="516" alt="image" src="https://github.com/todydanielm3/projeto_haskell/assets/36305237/cacd3b24-566c-433e-affa-29b2e9006431">
+
 
 
