@@ -1,4 +1,3 @@
-Claro, aqui está um exemplo de um arquivo `README.md` para o seu projeto Haskell que aplica um filtro Gaussiano a uma imagem:
 
 ```markdown
 # Projeto de Processamento de Imagens em Haskell
