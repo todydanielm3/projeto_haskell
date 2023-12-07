@@ -80,16 +80,16 @@ Em seguida, criarei uma imagem da Lena com um chapéu.
 
 Vamos começar com a sequência de imagens:
 
-**Imagem Original:**
+**Imagem Original:**  
 <img width="200" alt="image" src="https://github.com/todydanielm3/projeto_haskell/assets/36305237/7c20a7f5-cce6-463d-8820-9883f0444cd4">
 
-**Imagem com Filtro Gaussiano (Sigma = 5.0):**
+**Imagem com Filtro Gaussiano (Sigma = 5.0):**  
 <img width="200" alt="image" src="https://github.com/todydanielm3/projeto_haskell/assets/36305237/d96f54e1-a837-4a5a-925c-dc73e5d47eec">
 
-**Imagem com Filtro Gaussiano (Sigma = 10.0):**
+**Imagem com Filtro Gaussiano (Sigma = 10.0):**  
 <img width="200" alt="image" src="https://github.com/todydanielm3/projeto_haskell/assets/36305237/c79c7991-fa5f-426c-ac11-36ed77a73f5a">
 
-**Imagem com Filtro Gaussiano (Sigma = 15.0):**
+**Imagem com Filtro Gaussiano (Sigma = 15.0):**  
 <img width="200" alt="image" src="https://github.com/todydanielm3/projeto_haskell/assets/36305237/cacd3b24-566c-433e-affa-29b2e9006431">
 
 
