@@ -1,5 +1,6 @@
 # Projeto Haskell de Filtro Gaussiano
-<img width="954" alt="image" src="https://github.com/todydanielm3/projeto_haskell/assets/36305237/4d687169-a0b7-4d93-8754-fc15b9ff0c85">
+<img width="1300" alt="image" src="https://github.com/todydanielm3/projeto_haskell/assets/36305237/216f1cb2-5670-498b-9d3c-54524bc49d9e">
+
 
 
 ## Descrição
